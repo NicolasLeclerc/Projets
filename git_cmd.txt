@@ -12,3 +12,4 @@ Commandes git :
 -> git revert [SHA_commit]
 -> git commit --amend -m "new_message"
 -> git reset --hard
+-> git status
