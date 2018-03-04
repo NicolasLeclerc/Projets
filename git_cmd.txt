@@ -1,1 +1,9 @@
 Commandes git :
+
+-> git config --global user.name "Your Name"
+-> git config --global user.email you@example.com
+-> git commit --amend --reset-author
+-> git init
+-> git add
+-> git commit -m
+
