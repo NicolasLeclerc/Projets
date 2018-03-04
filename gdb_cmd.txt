@@ -1,0 +1,13 @@
+Commandes GDB:
+
+-> gdb [program]
+-> gdb [program] [dumpfile]
+-> gdb [program] [process]
+-> gdb [program] -silent
+(equivalents -silent :
+	-q
+	-quiet
+)
+(comments : #blablabla#)
+(cf. help for all available cmd)
+
