@@ -21,4 +21,8 @@ Commandes git :
 then  copy id_rsa.pub to github:new_deploy_key)
 -> git push -u [remote] [branch]
 -> git clone [url.git]
--> git pull [remote] [branch] 
+-> git pull [remote] [branch]
+-> git branch [new_branch]
+-> git branch
+-> git checkout [branch]
+-> git checkout -b [new_branch]
