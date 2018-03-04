@@ -29,3 +29,12 @@ then  copy id_rsa.pub to github:new_deploy_key)
 -> git merge [branch]
 -> git commit
 -> git mergetool vimdiff
+-> git blame [file.extension]
+-> git show [SHA]
+-> touch .gitignore
+(TODO : add each path of file not to be included [config, vars, mdp,  env, .project, tmp...])
+-> git stash
+-> git stash pop
+-> git stash apply
+-> git branch -d [branch]
+
