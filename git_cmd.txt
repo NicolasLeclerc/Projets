@@ -26,3 +26,6 @@ then  copy id_rsa.pub to github:new_deploy_key)
 -> git branch
 -> git checkout [branch]
 -> git checkout -b [new_branch]
+-> git merge [branch]
+-> git commit
+-> git mergetool vimdiff
