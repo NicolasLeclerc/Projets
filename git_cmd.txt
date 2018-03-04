@@ -8,4 +8,7 @@ Commandes git :
 -> git commit -m "message"
 -> git log
 -> git commit -a -m "message"
-
+-> git checkout [SHA_commit|name_branch]
+-> git revert [SHA_commit]
+-> git commit --amend -m "new_message"
+-> git reset --hard
