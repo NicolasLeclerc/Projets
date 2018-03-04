@@ -4,6 +4,8 @@ Commandes git :
 -> git config --global user.email you@example.com
 -> git commit --amend --reset-author
 -> git init
--> git add
--> git commit -m
+-> git add [file|repository]
+-> git commit -m "message"
+-> git log
+-> git commit -a -m "message"
 
